@@ -33,21 +33,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
-<!--
 
----
-### 🔥 **Featured Projects**
-📌 **[AI-Powered Health Risk Predictor](https://github.com/yourusername/AI-Health-Predictor)**  
-🔹 A machine learning model that predicts health risks based on user data.
-
-📌 **[Neuroscience Data Analysis](https://github.com/yourusername/Neuro-Data-Analysis)**  
-🔹 Exploratory data analysis on brain imaging and cognitive datasets.
-
-📌 **[Web-Based Medical Software](https://github.com/yourusername/Medical-App)**  
-🔹 A full-stack web app for patient health tracking.
----
-
--->
 
 ### 📈 **GitHub Stats**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
